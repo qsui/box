@@ -1,0 +1,29 @@
+{
+  "family": "qsui",
+  "name": "box",
+  "version": "1.0.0",
+  "description": "The best project ever.",
+  "homepage": "https://github.com/qsui/box",
+  "author": "xuenshu",
+  "maintainers": [
+    "xuenshu"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qsui/box.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": [
+      "box.js",
+      "box.css"
+    ],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
